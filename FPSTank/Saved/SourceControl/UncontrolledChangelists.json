@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Level/PlayerMap.umap",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/BPC_Player.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/BPGM_Player.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/Input/IA_MouseView.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/Input/IMC_Player.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/BPPC_Player.uasset",
+				"C:/Users/USER/Desktop/UEFPSClass/FPSTank/FPSTank/Content/FPS/Blueprint/Input/IA_Move.uasset"
+			]
+		}
+	]
+}
