@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\USER\\Desktop\\UEFPSClass\\FPSTank\\FPSTank\\Source\\FPSTank\\FPSTank.Build.cs",
-		"C:\\Users\\USER\\Desktop\\UEFPSClass\\FPSTank\\FPSTank\\Source\\FPSTank.Target.cs",
-		"C:\\Users\\USER\\Desktop\\UEFPSClass\\FPSTank\\FPSTank\\Source\\FPSTankEditor.Target.cs"
+		"C:\\Users\\julia\\Downloads\\FPSTank\\FPSTank\\Source\\FPSTank\\FPSTank.Build.cs",
+		"C:\\Users\\julia\\Downloads\\FPSTank\\FPSTank\\Source\\FPSTank.Target.cs",
+		"C:\\Users\\julia\\Downloads\\FPSTank\\FPSTank\\Source\\FPSTankEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
